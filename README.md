@@ -1,6 +1,9 @@
 # Colmap-setup
 Colmap을 세팅해 봅시다    
-REFERENCE : https://www.youtube.com/watch?v=P-EC0DzeVEU&t=183s
+Reference : https://www.youtube.com/watch?v=P-EC0DzeVEU&t=183s    
+Dataset : 
+> Reference : https://peterfalkingham.com/2016/10/04/photogrammetry-testing-3-visualsfm-pmvs-meshlab/    
+> Download LINK : http://bitly.kr/L28vC4
 
 # 프로그램 설치
 LINK : https://demuc.de/colmap/    
@@ -47,5 +50,6 @@ Reconstruction - Start Reconstruction 을 클릭하여 3D Point Cloud를 생성�
 
 
 # ERROR
-## non-OpenGL32.dll .....
+
+### non-OpenGL32.dll .....
 이것도 그래픽 메모리할당 등으로 인해 그런 것 같다. 재부팅 후 다시 실행해 보자.
